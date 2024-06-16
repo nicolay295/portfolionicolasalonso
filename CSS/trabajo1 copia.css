@@ -1,0 +1,127 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+
+p {
+  margin-bottom: 2.13rem;
+}
+    
+div:last-child p{
+  margin-bottom: 0;
+}
+
+.ruta{
+  margin-left:15px; 
+  color:#0D0D0D;
+  font-family: "Montserrat", sans-serif;
+  font-size: 0.9em;
+  font-weight: 700;
+  line-height: 1.2em;
+  margin-bottom:0.5em;
+  margin-top: 1.5em;
+  padding-bottom: 0;
+}
+.ruta a, .ruta visited{
+  color:#0D0D0D;
+  font-family: "Montserrat", sans-serif;
+  font-size: 0.9em;
+  font-weight: 300;
+  line-height: 1.2em;
+  margin-bottom:0.5em;
+  margin-top: 1.5em;
+  padding-bottom: 0;
+}
+
+h2{
+  padding-top:0;
+  line-height:2.50rem;
+  margin-bottom: 0.999rem;
+}
+
+.introduccion{
+  grid-column:1 / span 6;
+  grid-row:1 / span 1;}
+
+.introduccion p{
+  margin-bottom:0;
+}
+
+.img1{
+  grid-column:1 / span 6;
+  grid-row:2 / span 1;
+  align-self:end;
+  z-index: 0;
+}
+
+.torre{  
+  grid-column:4 / span 4;
+  grid-row-end: span 2;
+  align-self:end;
+}
+
+.mono{
+  grid-column:7 / span 6;
+  grid-row:2/ span 1;
+}
+
+.textomono{
+  grid-column:10 / span 3;
+  grid-row:5/ span 1;
+}
+
+.textogato{
+  grid-column:1 / span 12;
+  grid-row:3/ span 1;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-top: 100PX;
+  margin-bottom: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  align-self: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.textotorre{
+  grid-column:8 / span 3;
+  grid-row:5/ span 1;
+  align-self:end;
+}
+
+.pagination {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  flex-direction:row;
+  justify-content:space-between;
+  padding: 0px 15px 15px 15px;
+}
+
+.pagination a {
+  color: crimson;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+  border: 1px solid #ddd;
+}
+a.pag:hover{
+  background-color: #ddd;   
+}
+
+@media (max-width: 912px) {
+  
+ 
+   .container {
+   display:block;
+   margin-left: 15px; 
+   margin-right: 15px;
+  }
+   div.introduccion{
+   margin-bottom:25px;
+    }
+}

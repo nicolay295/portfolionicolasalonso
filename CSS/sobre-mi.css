@@ -1,0 +1,89 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.primera{
+  grid-column:2 / span 3;
+}
+
+.segunda{
+  grid-column:6 / span 6;
+}
+
+#primer {
+  margin-top:-15px;
+}
+
+#cuarta {
+  margin-top:-15px;
+}
+
+#quinta {
+  margin-top:-15px;
+  margin-bottom: 50px;
+}
+
+#sexta {
+  margin-top:-15px;
+  margin-bottom: 15px;
+}
+
+.tercera {  
+  grid-column:9 / span 4;
+}
+
+table, th, td {
+  border:1px solid #0d0d0d;
+  border-collapse: collapse;
+  height:20px;
+  }
+
+table{
+  width:100%;
+  margin-bottom:15px;
+}
+
+.fotografia{
+  width:75%; 
+  background-color:#F3FAE1; 
+  text-align: center;
+}
+
+.web{
+  width:80%;
+  background-color:#F3FAE1;
+  text-align: center;
+}
+
+.creatividad{
+  width:95%;
+  background-color:#F3FAE1;
+  text-align: center;
+}
+
+.animacion{
+  width:75%;
+  background-color:#F3FAE1;
+  text-align: center;
+}
+
+ .identidad{
+  width:95%;
+  background-color:#F3FAE1;
+  text-align: center;
+}
+
+.float{
+  float:right;clear:right;
+}
+
+@media (max-width: 912px) {
+  
+   .container {
+     display:block;
+     margin-left: 15px; 
+     margin-right: 15px;
+  }
+  #primer {
+    margin-top:0;
+      }
+}

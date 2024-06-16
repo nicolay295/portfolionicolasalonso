@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-cde1066a-4e4e-449d-88ce-f0b53532ea53" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150">
+  <defs>
+    <style>
+      .uuid-8951bb9b-c4a8-4fa4-bd57-07410788a312 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 2.83px;
+      }
+    </style>
+  </defs>
+  <polyline class="uuid-8951bb9b-c4a8-4fa4-bd57-07410788a312" points="124.76 99.88 75 124.76 25.24 99.88"/>
+  <line class="uuid-8951bb9b-c4a8-4fa4-bd57-07410788a312" x1="75" y1="12.8" x2="75" y2="124.76"/>
+  <path class="uuid-8951bb9b-c4a8-4fa4-bd57-07410788a312" d="M25.24,112.32v17.21c0,4.24,3.44,7.67,7.67,7.67h84.18c4.24,0,7.67-3.44,7.67-7.67v-17.21"/>
+</svg>

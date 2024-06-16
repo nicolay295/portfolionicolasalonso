@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-7da12b18-fbed-4b28-8927-8cb76d178e0a" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150">
+  <defs>
+    <style>
+      .uuid-401e6d62-ace6-4b79-8d26-8b5e106a51df {
+        fill: #000;
+        stroke-width: 0px;
+      }
+
+      .uuid-dd983dae-b82a-4815-8487-1ec15d08a07c {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 2.83px;
+      }
+    </style>
+  </defs>
+  <path class="uuid-401e6d62-ace6-4b79-8d26-8b5e106a51df" d="M130.32,28.07c2.23,0,4.05,1.81,4.05,4.05v85.77c0,2.23-1.81,4.05-4.05,4.05H19.68c-2.23,0-4.05-1.81-4.05-4.05V32.12c0-2.23,1.82-4.05,4.05-4.05h110.65M130.32,25.24H19.68c-3.8,0-6.88,3.08-6.88,6.88v85.77c0,3.8,3.08,6.88,6.88,6.88h110.65c3.8,0,6.88-3.08,6.88-6.88V32.12c0-3.8-3.08-6.88-6.88-6.88h0Z"/>
+  <polyline class="uuid-dd983dae-b82a-4815-8487-1ec15d08a07c" points="14.82 27.26 68.09 80.53 75 87.44 81.91 80.53 135.18 27.26"/>
+  <line class="uuid-dd983dae-b82a-4815-8487-1ec15d08a07c" x1="134.94" y1="122.96" x2="81.91" y2="80.53"/>
+  <line class="uuid-dd983dae-b82a-4815-8487-1ec15d08a07c" x1="68.09" y1="80.53" x2="15.06" y2="122.96"/>
+</svg>
